@@ -1532,6 +1532,10 @@ version = "0.1.0"
 submodule = "extensions/edusites-theme"
 version = "1.0.0"
 
+[eel2]
+submodule = "extensions/eel2"
+version = "0.1.0"
+
 [efa-dark-theme]
 submodule = "extensions/efa-dark-theme"
 version = "1.0.0"
