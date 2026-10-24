@@ -1534,7 +1534,7 @@ version = "1.0.0"
 
 [eel2]
 submodule = "extensions/eel2"
-version = "0.3.0"
+version = "0.4.0"
 
 [efa-dark-theme]
 submodule = "extensions/efa-dark-theme"
